@@ -1,2 +1,8 @@
-package dz1;public class Main {
+package dz1;
+
+public class Main {
+    public static void main(String[] args) {
+        new Server();
+        new Client();
+    }
 }
